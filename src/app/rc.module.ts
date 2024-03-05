@@ -12,9 +12,6 @@ import { CountryComponent } from './+countries/countries-list/country/country.co
   declarations: [
     RcComponent,
     HeaderComponent,
-    CountriesComponent,
-    CountriesListComponent,
-    CountryComponent
   ],
   imports: [
     BrowserModule,
